@@ -1,0 +1,3 @@
+Model,PR_AUC
+Main XGBoost with total_orders,0.393
+XGBoost without total_orders,0.215

@@ -1,0 +1,4 @@
+Metric,Value
+ROC-AUC,0.654
+PR-AUC,0.423
+Sensitivity,0.591

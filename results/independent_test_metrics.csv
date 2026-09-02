@@ -1,0 +1,7 @@
+Metric,Independent_test_result
+Accuracy,0.679
+Sensitivity,0.364
+Precision,0.178
+F1-score,0.239
+ROC-AUC,0.61
+PR-AUC,0.248
