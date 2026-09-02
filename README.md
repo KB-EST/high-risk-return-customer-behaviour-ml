@@ -424,7 +424,7 @@ However, the results still do not establish fraudulent intent and should be inte
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 
 1. **XGBoost provided the strongest overall predictive performance** among the three algorithms evaluated.
 
@@ -444,7 +444,7 @@ However, the results still do not establish fraudulent intent and should be inte
 
 ---
 
-## 💼 Practical Application
+##  Practical Application
 
 The model should not be used to automatically label customers as fraudulent or block product returns.
 
@@ -464,7 +464,7 @@ A production system would also require substantially more representative retaile
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 The project has several important limitations.
 
@@ -491,7 +491,7 @@ The available variables describe purchasing behaviour but cannot explain why a c
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 Future development could improve the modelling framework by using:
 
@@ -509,7 +509,7 @@ Further modelling could also investigate alternative imbalance strategies, addit
 
 ---
 
-## 🛠️ Technologies & Techniques
+##  Technologies & Techniques
 
 **Language:** R
 
@@ -531,7 +531,7 @@ Further modelling could also investigate alternative imbalance strategies, addit
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 high-risk-return-customer-behaviour-ml/
@@ -564,6 +564,6 @@ high-risk-return-customer-behaviour-ml/
 
 ---
 
-## 👤 Author
+##  Author
 
 **Abdulkabir Bolaji Suleiman**
